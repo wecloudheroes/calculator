@@ -3,11 +3,10 @@ title: "Why Do So Many GenAI Projects Fail – and How Can We Succeed?"
 datePublished: Fri Aug 22 2025 15:09:37 GMT+0000 (Coordinated Universal Time)
 cuid: cmemyv3wt000c02js5dxbdwyb
 slug: why-do-so-many-genai-projects-fail-and-how-can-we-succeed
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1755875914849/a280c9b6-482a-4f1d-9058-550e3137ce55.png
 tags: projects, story, chatbot, llms, genai, rag
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1755875229621/26726198-036c-4adf-81dd-4de367355579.png align="center")
 
 Generative AI (GenAI) projects face an alarmingly high failure rate across industries. Recent MIT research indicates that up to **95% of enterprise GenAI pilots fail** to deliver meaningful impact, while other studies report failure rates of **70–85%**. These failures are rarely due to the technology itself; rather, they stem from systemic organizational and strategic gaps.
 
